@@ -1,4 +1,4 @@
-# Competitor Channel Analysis — Deep Research Across 11 YouTube Channels
+# Competitor Channel Analysis — Deep Research Across All 16 YouTube Channels (11 Niche Competitors + 5 Mega 2D Giants)
 
 > **Research Date:** November 23, 2026  
 > **Methodology:** Every channel below was directly inspected live in Google Chrome (channel Home/About dialogs, `/videos` Latest & Popular tabs, `/shorts` tabs, thumbnail grids, and 1–2 individual watch pages including visual/animation audits, AI disclosure badges, descriptions, and full YouTube transcripts).  
@@ -21,6 +21,11 @@
 | 9 | **Crayon Capital** ✓ | [@Crayon_Capital](https://www.youtube.com/@Crayon_Capital) | Mar 31, 2025 | N/A | 324K | 36 | 27,687,038 | ~769K | 2D cartoon doodle / business explainer | 12–21 min | ~1/week | No (0) | **No** (Auto-dubbed only) | *The Wolf of Wall Street Scam Explained Like You're 5* (4.3M) |
 | 10 | **Unlock The Mind** | [@unlockthemindyt](https://www.youtube.com/@unlockthemindyt) | Apr 21, 2026 | US | 92K | 58 | 63,179,909 | ~1.09M (Shorts-driven) | 3D mannequin + sketch Shorts | 2–13 min (only 3 long vids) | Dormant 1–2mo (was 3–4 Shorts/wk) | Yes (~55) | **Yes** (on long-form); No on viral Short | *If Someone Roasts You in Front of Girls...* (19M Short) |
 | 11 | **Paper Billions** | [@PaperBillionsTV](https://www.youtube.com/@PaperBillionsTV) | Sep 21, 2022 *(active Nov 2026)* | Bulgaria | 25.9K | 7 | 6,374,820 | ~911K | 2D cartoon thriller (Overnight app) | 14–27 min | ~2–3/week | No (0) | **No** *(promotes AI app `madeovernight.com`)* | *How a Chinese Spy Got Inside Nvidia* (3.2M) |
+| 12 | **Kurzgesagt – In a Nutshell** ✓ | [@kurzgesagt](https://www.youtube.com/@kurzgesagt) | Jul 10, 2013 | Germany | **25.8M** | 401 | 4,024,930,424 | ~10.0M | Clean flat geometric 2D vector (Studio) | 12–21 min | ~2–3/month | Yes (Active; 20M top) | **No** *(studio)* | *The Coronavirus Explained* (89M) |
+| 13 | **TED-Ed** ✓ | [@TEDEd](https://www.youtube.com/@TEDEd) | Mar 2, 2011 | US | **23.0M** | 2,399 | 4,793,527,344 | ~2.0M | Editorial book-cover 2D anthology (Studio) | 5–6.5 min | ~2/week | Yes (Sparse) | **No** *(studio)* | *Prisoner Hat Riddle* (37M) |
+| 14 | **The Infographics Show** ✓ | [@TheInfographicsShow](https://www.youtube.com/@TheInfographicsShow) | Feb 27, 2011 | US | **15.5M** | 6,406 | 7,050,214,768 | ~1.1M | Flat 2D vector puppet rigs (Studio) | 12–21 min (+ 3h comps) | ~1–2/day | Yes (Sparse) | **No** *(Auto-dubbed)* | *What Happens When You Die?* (27M) |
+| 15 | **Psych2Go** ✓ | [@Psych2go](https://www.youtube.com/@Psych2go) | Oct 5, 2014 | US | **13.2M** | 4,068 | 2,188,240,545 | ~538K | Minimal clean pastel 2D sketch (Studio) | 5–7.5 min | ~2/week | Yes (Sporadic) | **No** *(Auto-dubbed)* | *8 Toxic Things Parents Say* (18M) |
+| 16 | **OverSimplified** ✓ | [@OverSimplified](https://www.youtube.com/@OverSimplified) | Oct 28, 2006 | US | **9.7M** | 33 | 1,442,642,386 | ~43.7M | Minimal round-head 2D + maps (Studio) | 28–49 min | ~1/year | **No (0)** | **No** *(Auto-dubbed)* | *WW2 - OverSimplified (Part 1)* (105M) |
 
 *\*Average views/video is calculated strictly as `Total Channel Views / Total Videos`. Because viral outliers and Shorts heavily skew averages, individual video distributions are detailed in each section below.*
 

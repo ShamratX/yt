@@ -1,7 +1,7 @@
 # Complete Niche Map, Topic Potential, Growth Scoring, Content Gaps & Final Niche Selection
 
 > **Covers:** Parts 2, 3, 4, 6, and 8 of the Research Brief  
-> **Evidence Base:** Live Chrome inspection of all 11 competitor channels (`@Inkexplainer96`, `@Neon-Rush-3D`, `@Basically-Primitive`, `@AncestorFiless`, `@HeyHistorically`, `@unknownfrequencies-tv`, `@HistoryInMinsYT`, `@genius_history01`, `@Crayon_Capital`, `@unlockthemindyt`, `@PaperBillionsTV`) conducted November 23, 2026.
+> **Evidence Base:** Live Chrome inspection of all **16 channels** — 11 niche competitors (`@Inkexplainer96`, `@Neon-Rush-3D`, `@Basically-Primitive`, `@AncestorFiless`, `@HeyHistorically`, `@unknownfrequencies-tv`, `@HistoryInMinsYT`, `@genius_history01`, `@Crayon_Capital`, `@unlockthemindyt`, `@PaperBillionsTV`) + 5 mega 2D benchmark channels (`@kurzgesagt`, `@TEDEd`, `@TheInfographicsShow`, `@Psych2go`, `@OverSimplified`) conducted November 23, 2026.
 
 ---
 

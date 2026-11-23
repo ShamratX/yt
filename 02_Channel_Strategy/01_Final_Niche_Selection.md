@@ -1,6 +1,6 @@
 # Final Niche Selection & Multi-Niche Combination
 
-> **Decision Source:** Directly locked from the completed live audit of all 11 competitor channels (`01_Research/YOUTUBE_CHANNEL_RESEARCH.md` & `01_Research/niche_comparison.md`).
+> **Decision Source:** Directly locked from the completed live audit of all **16 researched channels** (11 niche competitors + 5 mega 2D giants: `@kurzgesagt`, `@TEDEd`, `@TheInfographicsShow`, `@Psych2go`, `@OverSimplified` — see `01_Research/ALL_16_COMPETITOR_CHANNELS.md` & `01_Research/YOUTUBE_CHANNEL_RESEARCH.md`).
 
 ---
 

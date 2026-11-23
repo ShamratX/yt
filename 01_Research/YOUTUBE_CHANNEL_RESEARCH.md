@@ -1,9 +1,11 @@
 # YouTube Channel Growth Strategy, Live Competitor Research & AI Video Production Master Report
 
 > **Prepared:** November 23, 2026  
-> **Scope:** Live Chrome browser audit of 11 competitor YouTube channels, full niche/sub-niche taxonomy, topic-potential sizing, 11-factor weighted growth scoring, verified AI production tool stack & YouTube Partner Program (YPP) compliance review, 10 differentiated channel concepts, 150 original video topic ideas, Top 10 launch topics, single winning niche recommendation, and a 90-day solo launch plan.  
+> **Scope:** Live Chrome browser audit of **16 YouTube channels** (11 niche competitors + 5 mega 2D educational giants = 87.2M+ combined subs), full niche/sub-niche taxonomy, topic-potential sizing, 11-factor weighted growth scoring, verified AI production tool stack & YouTube Partner Program (YPP) compliance review, 10 differentiated channel concepts, 150 original video topic ideas, Top 10 launch topics, single winning niche recommendation, and a 90-day solo launch plan.  
 > **Supporting Deep-Dive Reports in This Directory:**
-> - [`competitor_analysis.md`](./competitor_analysis.md) — Complete channel-by-channel logs, top video lists, thumbnail breakdowns, and transcript hook/outro analyses
+> - [`ALL_16_COMPETITOR_CHANNELS.md`](./ALL_16_COMPETITOR_CHANNELS.md) — Clean 1-page master list of all 16 researched channels (#1–#16) with clickable links
+> - [`competitor_analysis.md`](./competitor_analysis.md) — Complete channel-by-channel logs, top video lists, thumbnail breakdowns, and transcript hook/outro analyses (all 16 channels)
+> - [`mega_2d_channels_benchmark.md`](./mega_2d_channels_benchmark.md) — Deep benchmark of the 5 mega 2D giants (`@kurzgesagt`, `@TEDEd`, `@TheInfographicsShow`, `@Psych2go`, `@OverSimplified`)
 > - [`niche_comparison.md`](./niche_comparison.md) — Full category map, overlap analysis, topic-potential reasoning, 11-factor scoring, and 10 differentiated concepts
 > - [`ai_production_workflow.md`](./ai_production_workflow.md) — Verified pricing, commercial-use rules, \$0 vs. \$16–\$32/mo tool stacks, and YPP policy compliance
 > - [`content_ideas.md`](./content_ideas.md) — Complete 150 original topic tables + Top 10 launch picks
@@ -34,9 +36,9 @@ Inspecting all 11 target channels directly in Chrome—including About pages, fu
 
 ---
 
-## 2. Individual Competitor Analysis (Summary of All 11 Inspected Channels)
+## 2. Individual Competitor Analysis (Summary of All 16 Inspected Channels: 11 Niche Competitors + 5 Mega 2D Giants)
 
-> *All metrics verified live in Chrome on November 23, 2026. For complete 20–30 video catalogs, thumbnail breakdowns, and verbatim hook/outro transcript excerpts for every channel, see [`competitor_analysis.md`](./competitor_analysis.md).*
+> *All metrics verified live in Chrome on November 23, 2026. For complete catalogs, thumbnail breakdowns, and verbatim hook/outro transcript excerpts, see [`competitor_analysis.md`](./competitor_analysis.md), [`ALL_16_COMPETITOR_CHANNELS.md`](./ALL_16_COMPETITOR_CHANNELS.md), and [`mega_2d_channels_benchmark.md`](./mega_2d_channels_benchmark.md).*
 
 | # | Channel & Link | Joined (Country) | Subs | Videos | Total Views | Primary Niche & Format | Typical Length & Cadence | Shorts? | YT `Made with AI` Badge? | Top Verified Video | Strategic Takeaway |
 |---|---|---|---:|---:|---:|---|---|---|---|---|---|
@@ -51,6 +53,11 @@ Inspecting all 11 target channels directly in Chrome—including About pages, fu
 | 9 | **Crayon Capital ✓** ([@Crayon_Capital](https://www.youtube.com/@Crayon_Capital)) | Mar 31, 2025 *(N/A)* | 324K | 36 | 27,687,038 | Business, finance & tech history (`Explained Like You're 5` + 2D doodle host + Incogni sponsors) | 12–21m; ~1/wk | No (0) | **No** *(Auto-dubbed only)* | *The Wolf of Wall Street Scam ELI5* (**4.3M**) | **Most consistent business channel** (156K–621K even on routine uploads); strong recurring mascot & Auto-dubbing. |
 | 10 | **Unlock The Mind** ([@unlockthemindyt](https://www.youtube.com/@unlockthemindyt)) | Apr 21, 2026 *(US)* | 92K | 58 | 63,179,909 | Teen/high-school social & dark psychology Shorts (3D mannequin thumbnails + white-on-black sketches) | 30–45s Shorts (only 3 long vids: 2–13m) | Yes (~55) | **Yes** *(long-form)*; No *(viral Short)* | *If Someone Roasts You in Front of Girls...* (**19M** Short) | **Textbook Shorts trap:** 63M Shorts views & 92K subs failed to convert to long-form (only 1.3K–6K views), low RPM, repetitive topics. |
 | 11 | **Paper Billions** ([@PaperBillionsTV](https://www.youtube.com/@PaperBillionsTV)) | Sep 21, 2022 *(active Nov 2026; Bulgaria)* | 25.9K | 7 | 6,374,820 | Breaking corporate espionage & AI/Nvidia finance thrillers (clones Crayon Capital; promotes `madeovernight.com`) | 14–27m; ~2–3/wk | No (0) | **No** *(promotes AI app)* | *How a Chinese Spy Got Inside Nvidia* (**3.2M**) | Masterful *in media res* thriller hooks, **but** high policy/defamation risk & steep decay when repeating the spy hook (3.2M → 46K). |
+| 12 | **Kurzgesagt ✓** ([@kurzgesagt](https://www.youtube.com/@kurzgesagt)) | Jul 10, 2013 *(Germany)* | **25.8M** | 401 | 4,024,930,424 | Science, human biology/brain, first civilizations, space & AI (clean flat 2D vector studio) | 12–21m; ~2–3/mo | Yes (Active; 20M top) | **No** *(studio)* | *The Coronavirus Explained* (**89M**) | **#1 Mega 2D ceiling proof:** biology, brain/memory & first-civilization videos pull 3.6M–21M views in 2026. |
+| 13 | **TED-Ed ✓** ([@TEDEd](https://www.youtube.com/@TEDEd)) | Mar 2, 2011 *(US)* | **23.0M** | 2,399 | 4,793,527,344 | Multidisciplinary lessons: human body/health, everyday food/object history, psychology, riddles (editorial 2D) | 5–6.5m; ~2/wk | Yes (Sparse) | **No** *(studio)* | *Prisoner Hat Riddle* (**37M**) | Proves human body & everyday food/habit history stay evergreen for 10+ years with clean book-cover 2D art. |
+| 14 | **The Infographics Show ✓** ([@TheInfographicsShow](https://www.youtube.com/@TheInfographicsShow)) | Feb 27, 2011 *(US)* | **15.5M** | 6,406 | 7,050,214,768 | High-drama infotainment: survival, human body, ancient quirks, tech/economy, crime (flat 2D vector) | 12–21m (+ 3h comps); ~1–2/day | Yes (Sparse) | **No** *(Auto-dubbed)* | *What Happens When You Die?* (**27M**) | Proves second-person mystery hooks + 12–21m 2D explainers + YouTube Auto-Dubbing scale to billions of views. |
+| 15 | **Psych2Go ✓** ([@Psych2go](https://www.youtube.com/@Psych2go)) | Oct 5, 2014 *(US)* | **13.2M** | 4,068 | 2,188,240,545 | Everyday psychology, mental health, brain habits, burnout & relationships (minimal pastel 2D sketch) | 5–7.5m; ~2/wk | Yes (Sporadic) | **No** *(Auto-dubbed)* | *8 Toxic Things Parents Say* (**18M**) | **#1 Minimal 2D proof:** ultra-clean uncluttered pastel 2D art scales to 13M+ subs in everyday psychology. |
+| 16 | **OverSimplified ✓** ([@OverSimplified](https://www.youtube.com/@OverSimplified)) | Oct 28, 2006 *(US)* | **9.7M** | 33 | 1,442,642,386 | Comedic military & world history: WW1/WW2, Cold War, Punic Wars (minimal round-head 2D + maps) | 28–49m; ~1/yr | **No (0)** | **No** *(Auto-dubbed)* | *WW2 - OverSimplified (Part 1)* (**105M**) | Averages 43.7M views/video with 0 Shorts; proves why we avoid competing head-on in military/war history. |
 
 ---
 
@@ -428,6 +435,11 @@ A **100% free, 100% hands-off ("one-click") workflow that passes YouTube Partner
   9. Crayon Capital: [https://www.youtube.com/@Crayon_Capital](https://www.youtube.com/@Crayon_Capital) (sample video: [H5GYXhpE5yI](https://www.youtube.com/watch?v=H5GYXhpE5yI))
   10. Unlock The Mind: [https://www.youtube.com/@unlockthemindyt](https://www.youtube.com/@unlockthemindyt) (samples: [_diBS4s5vVU](https://www.youtube.com/watch?v=_diBS4s5vVU), [lMrCh-Uec6g](https://www.youtube.com/watch?v=lMrCh-Uec6g))
   11. Paper Billions: [https://www.youtube.com/@PaperBillionsTV](https://www.youtube.com/@PaperBillionsTV) (sample video: [_MG4v3foET8](https://www.youtube.com/watch?v=_MG4v3foET8))
+  12. Kurzgesagt – In a Nutshell: [https://www.youtube.com/@kurzgesagt](https://www.youtube.com/@kurzgesagt) (sample video: [ujkD4SxPKOI](https://www.youtube.com/watch?v=ujkD4SxPKOI))
+  13. TED-Ed: [https://www.youtube.com/@TEDEd](https://www.youtube.com/@TEDEd) (sample video: [8RPK5KwYhgA](https://www.youtube.com/watch?v=8RPK5KwYhgA))
+  14. The Infographics Show: [https://www.youtube.com/@TheInfographicsShow](https://www.youtube.com/@TheInfographicsShow) (sample video: [j16_OPRTT4g](https://www.youtube.com/watch?v=j16_OPRTT4g))
+  15. Psych2Go: [https://www.youtube.com/@Psych2go](https://www.youtube.com/@Psych2go) (sample video: [POUF4fhMZ6c](https://www.youtube.com/watch?v=POUF4fhMZ6c))
+  16. OverSimplified: [https://www.youtube.com/@OverSimplified](https://www.youtube.com/@OverSimplified) (sample video: [1BVJzaXv3rk](https://www.youtube.com/watch?v=1BVJzaXv3rk))
 - **Official YouTube Policy Documentation:**
   - YouTube Partner Program Monetization Policies (Inauthentic / Reused Content): [https://support.google.com/youtube/answer/1311392](https://support.google.com/youtube/answer/1311392)
   - Disclosing Use of Altered or Synthetic Content: [https://support.google.com/youtube/answer/14328491](https://support.google.com/youtube/answer/14328491)
