@@ -1,0 +1,26 @@
+{
+  "episode_title": "[VIDEO_TITLE]",
+  "voiceover_file": "02_voiceover/voiceover_FINAL.mp3",
+  "target_resolution": "1920x1080",
+  "fps": 30,
+  "scenes": [
+    {
+      "scene_id": "scene_001",
+      "start": 0.0,
+      "end": 5.5,
+      "narration_line": "It is 3:07 AM. Your bedroom is completely silent.",
+      "image": "04_images/scene_001.png",
+      "motion": "zoom_in",
+      "visual_notes": "Wide moody bedroom at night, glowing 3:07 AM alarm clock on nightstand, warm editorial ink-and-watercolor style."
+    },
+    {
+      "scene_id": "scene_002",
+      "start": 5.5,
+      "end": 11.0,
+      "narration_line": "Nobody called you. Nothing bumped the window. Yet your eyes snap wide open.",
+      "image": "04_images/scene_002.png",
+      "motion": "pan_right",
+      "visual_notes": "Close-up of protagonist awake in bed staring at ceiling, subtle cool midnight blue wash contrasting warm charcoal linework."
+    }
+  ]
+}
