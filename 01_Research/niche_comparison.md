@@ -185,3 +185,18 @@ Every niche is scored **1 to 10** (where **10 = Most Favorable** for a new solo 
 #### 6. Shorts vs. Long-Form Decision
 - **Primary Engine (90% of effort): Long-Form (11–16 minutes).** Every healthy revenue-generating channel in our research (`@Inkexplainer96`, `@Basically-Primitive`, `@Crayon_Capital`, `@HistoryInMinsYT`) built its core audience and monetization on long-form.
 - **Secondary Support (10% of effort, optional after Month 1): 1–2 Companion Shorts/week** extracted from the punchiest 40-second myth-busting moment of your latest long-form video, linked directly via YouTube's **"Related Video"** feature to drive viewers into the long-form episode. **Never** run a Shorts-first teen-hack channel like `@unlockthemindyt`.
+
+
+---
+
+## Addendum: Mega 2D Channel Category & Ceiling Validation (5 Giants = 87.2M Subs)
+
+Live inspection of 5 mega 2D educational channels (`@kurzgesagt` 25.8M, `@TEDEd` 23M, `@TheInfographicsShow` 15.5M, `@Psych2go` 13.2M, `@OverSimplified` 9.7M — full breakdown in [`mega_2d_channels_benchmark.md`](./mega_2d_channels_benchmark.md)) confirms the exact ceiling of every niche in our matrix:
+
+| Mega 2D Benchmark Channel | Verified Subs / Views | YouTube Category | Core Niche Overlap With Our Matrix | Strategic Validation for Our Niche Decision |
+|---|---|---|---|---|
+| **Kurzgesagt** (`@kurzgesagt`) | 25.8M / 4.02B | `Education` | Human Biology, Brain/Memory, First Civilizations, Science & Space | Proves **Human Origins + Biology + Brain** has a **25M+ subscriber ceiling** (recent civilization & biology videos still pull 3.6M–21M views!). |
+| **TED-Ed** (`@TEDEd`) | 23.0M / 4.79B | `Education` | Human Body/Health, Everyday Object/Food History, Psychology, Riddles | Proves **Human Body Glitches + Everyday Habit/Food History** (Pillars 3 & 4) stay evergreen for 10+ years (1.3M–26M views). |
+| **The Infographics Show** (`@TheInfographicsShow`) | 15.5M / 7.05B | `Education` | Survival, Human Body, Ancient Quirks, Tech/Econ Drama, Military | Proves **12–21 min 2D explainers + Auto-Dubbing** scale to billions of views. |
+| **Psych2Go** (`@Psych2go`) | 13.2M / 2.19B | `Education` | Everyday Psychology, Brain Habits, Burnout, Self-Awareness | Proves **minimal, clean, uncluttered 2D illustration** works at 13M+ scale for everyday psychology (Pillar 1). |
+| **OverSimplified** (`@OverSimplified`) | 9.7M / 1.44B | `Education` | Military & World History (WW1/WW2, Cold War, Punic Wars) | Confirms military/war history is dominated by 100M-view human comedy legends — validating why we excluded war history from Channel 1. |

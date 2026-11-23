@@ -414,3 +414,24 @@
 5. **Shorts-First Traps Long-Form Revenue:** `@unlockthemindyt` amassed 63M views and 92K subs on teen Shorts, yet pulled only 1.3K–6K views when attempting long-form. Build a **long-form-first channel**, using Shorts only selectively as promotional hooks if at all.
 6. **Country Histories Hit a Ceiling Fast:** Both `@HistoryInMinsYT` and `@genius_history01` surged on Tier-1 powers (India, Egypt, Japan, Iran, USA, China), then suffered dramatic drops on Tier-2 countries (Canada 3.1K, Korea 2.1K, North Korea 3.7K, Denmark 45K). You need a niche with **500–1,000+ deep, relatable topics**.
 7. **Script Craft & Proofreading Are the True Moat:** `@Inkexplainer96` (embedded quizzes, philosophical callbacks, academic citations), `@HistoryInMinsYT` (single thesis + "Remember X" breadcrumbs), and `@Crayon_Capital` (ELI5 metaphors + punchy dialogue) beat high-volume AI farms (`@Neon-Rush-3D` reading *"Now, here is a pattern interrupt"* aloud) on views-per-video by **10x–20x**.
+
+
+---
+
+## Addendum: 5 Mega 2D Benchmark Channels (9.7M – 25.8M Subscribers — Inspected Live Nov 23, 2026)
+
+*To benchmark the upper ceiling of 2D animated/illustrated YouTube channels across our researched niches and categories, we inspected 5 mega-channels (87.2M combined subs, 19.5B combined views). Full detailed logs, top video tables, and opening transcript hooks are saved in [`mega_2d_channels_benchmark.md`](./mega_2d_channels_benchmark.md).*
+
+| # | Channel Name | Handle | Joined (Country) | Subs | Videos | Total Views | YouTube Category | Primary Niche & Sub-Niches | 2D Visual Style | Shorts? | Typical Long-Form Length | Top Verified Video |
+|---|---|---|---|---:|---:|---:|---|---|---|---|---|---|
+| 12 | **Kurzgesagt – In a Nutshell ✓** | [@kurzgesagt](https://www.youtube.com/@kurzgesagt) | Jul 2013 *(Germany)* | **25.8M** | 401 | 4,024,930,424 | `Education` | Science, Human Biology/Brain, Civilization Origins, Space, AI & Philosophy | Clean flat geometric 2D vector, uncluttered focal art | Yes (Active; 20M top Short) | 12–21 min (~2–3/mo) | *The Coronavirus Explained* (**89M**) |
+| 13 | **TED-Ed ✓** | [@TEDEd](https://www.youtube.com/@TEDEd) | Mar 2011 *(US)* | **23.0M** | 2,399 | 4,793,527,344 | `Education` | Multidisciplinary Lessons: Human Body/Health, Food & Everyday History, Psychology, Riddles | Clean book-cover editorial 2D illustration anthology | Yes (Sparse; slowed 7mo+) | 5–6.5 min (~2/wk) | *Prisoner Hat Riddle* (**37M**) |
+| 14 | **The Infographics Show ✓** | [@TheInfographicsShow](https://www.youtube.com/@TheInfographicsShow) | Feb 2011 *(US)* | **15.5M** | 6,406 | 7,050,214,768 | `Education` | High-Drama Infotainment: Survival, Human Body, Tech/Economy, Dark History, Geopolitics, Crime | Fast flat 2D vector puppet animation + `Auto-dubbed` | Yes (Sparse; slowed 5mo+) | 12–21 min + 3h comps (~1–2/day) | *What Happens When You Die?* (**27M**) |
+| 15 | **Psych2Go ✓** | [@Psych2go](https://www.youtube.com/@Psych2go) | Oct 2014 *(US)* | **13.2M** | 4,068 | 2,188,240,545 | `Education` | Everyday Psychology, Mental Health, Brain Habits, Burnout, Neurodivergence & Relationships | **Minimal clean pastel 2D sketch** + generous open space + `Auto-dubbed` | Yes (Sporadic) | 5–7.5 min (~2/wk) | *8 Toxic Things Parents Say* (**18M**) |
+| 16 | **OverSimplified ✓** | [@OverSimplified](https://www.youtube.com/@OverSimplified) | Oct 2006 *(US)* | **9.7M** | 33 | 1,442,642,386 | `Education` | Comedic Military & World History (WW1/WW2, Cold War, Revolutions, Punic Wars) | Minimal round-head 2D characters + animated maps + `Auto-dubbed` | **No (0 Shorts)** | 28–49 min (~1/yr; ~43.7M avg) | *WW2 Part 1* (**105M**) |
+
+### Strategic Validation for `Human Mismatch`
+- **All 5 mega 2D channels** operate under YouTube's **`Education`** category and have **zero** `Made with AI` disclosures (studio-animated), while 3 of 5 actively use **`Auto-dubbed`**.
+- **Minimal, uncluttered 2D art** (Psych2Go, TED-Ed, Kurzgesagt, OverSimplified) scales to **10M–25M+ subscribers** — validating our clean, strict 2–3 color minimal 2D style.
+- **4 of 5 mega-channels skip or slow Shorts** in favor of long-form watch time — reinforcing our 90% Long-Form strategy.
+- Our winning niche (**Human Origins, Evolutionary Paradoxes & Everyday Anthropology**) sits directly across the highest-performing evergreen themes of **Kurzgesagt** (biology, brain/memory, first civilizations), **TED-Ed** (human body + everyday food/habit history), and **Psych2Go** (relatable everyday psychology), while wisely avoiding OverSimplified's saturated military-war lane.
